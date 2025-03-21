@@ -8,7 +8,7 @@ This segment outlines the implementation of on-premises Active Directory within 
 
 <h2>Video Demonstration</h2>
 
-https://youtu.be/TCW03bksEYQ?si=dvL5tFflAmHXtrpc
+https://youtu.be/Gjt5jC4ODXY?si=GNRrxHOxil_Te3go
 
 <h2>Environments and Technologies Used</h2>
 
